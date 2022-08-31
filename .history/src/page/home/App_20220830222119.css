@@ -1,0 +1,37 @@
+.App {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+#head{
+  width: 100vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb( 247,248,251);
+}
+#logo-ani{
+  width: 100px;
+  height: 100px;
+}
+
+.logo-font{
+  position: relative;
+  top: -8vh;
+  left: 10vw;
+}
+#home-car{
+  width: 40vw;
+  height: 40vh;
+  margin-left: 15vw;
+  /* margin-top: 10vh; */
+}
+#logo{
+  width: 100px;
+  height: 100px;
+}
+#msg{
+  margin-top: 50px;
+  color: rgb(55, 55, 55);
+}
