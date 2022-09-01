@@ -1,12 +1,42 @@
 {
     "github":{
         "name":"GitHub",
-        "logo":"",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
         "url":"https://github.com"
     },
-    "ES6":{
-        "name":"GitHub",
-        "logo":"",
+    "es6":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "git":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "google":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "gitlaba":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "gitaaa":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "gitlab":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
+        "url":"https://github.com"
+    },
+    "gitaaaa":{
+        "name":"ES6",
+        "logo":"https://lacblog.top/upload/2022/07/gbqoowg2sjq.jpeg",
         "url":"https://github.com"
     }
 }

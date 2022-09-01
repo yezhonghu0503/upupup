@@ -1,0 +1,18 @@
+.main{
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.collection{
+    width: 200px;
+    height: 150px;
+    margin-top: 50px;
+    background-color: aquamarine;
+}
+.collection_logo{
+    width: 100px;
+    height: 100px;
+}
